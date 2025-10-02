@@ -44,3 +44,17 @@ Trabalho com uso de chatBot de IA para ajudar a propor uma solução para o prob
     <td style="padding: 8px; border-bottom: 1px solid #ddd;">vitoria.edwards@icomp.ufam.edu.br</td>
   </tr>
 </table>
+
+<div style="margin-top: 20px;">
+  <h3 style="font-size: 16px; color: #333;">Arquivos</h3>
+
+  <h4>Tabelas.pdf</h4>
+  <a href="https://github.com/samuelcoelhoam/ModelChecking/raw/main/Tabelas.pdf" target="_blank">
+    🔗 Abrir Tabelas.pdf
+  </a>
+
+  <h4>Estados.pdf</h4>
+  <a href="https://github.com/samuelcoelhoam/ModelChecking/raw/main/Estados.pdf" target="_blank">
+    🔗 Abrir Estados.pdf
+  </a>
+</div>
