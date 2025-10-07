@@ -57,4 +57,14 @@ Trabalho com uso de chatBot de IA para ajudar a propor uma solução para o prob
   <a href="https://github.com/samuelcoelhoam/ModelChecking/raw/main/Rascunho/Estados.pdf" target="_blank">
     🔗 Abrir Estados.pdf
   </a>
+
+   <h4>Relatorio.pdf</h4>
+  <a href="https://github.com/samuelcoelhoam/ModelChecking/raw/main/Relatorio/Relatorio-MundoDosBlocos.pdf" target="_blank">
+    🔗 Abrir Relatorio-MundoDosBlocos.pdf
+  </a>
+
+   <h4>Codigo_Situacoes.pl</h4>
+  <a href="https://github.com/samuelcoelhoam/ModelChecking/raw/main/Codigo/Codigo_Situacoes.pl" target="_blank">
+    🔗 Abrir Codigo_Situacoes.pl
+  </a>
 </div>
